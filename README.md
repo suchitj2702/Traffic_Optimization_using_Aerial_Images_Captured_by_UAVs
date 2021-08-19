@@ -1,2 +1,1 @@
 # Traffic_Optimization_using_Aerial_Images_Captured_by_UAVs
-# suchitj2702-Traffic_Optimization_using_Aerial_Images_Captured_by_UAVs
